@@ -1,4 +1,4 @@
 # Ensiklopedia Wayang
 
-Aplikasi Android dan iOS berbasis Flutter, dibuat untuk submission Dicoding, dan sebagai 
+Aplikasi Android dan iOS berbasis Flutter, sebagai 
 usaha melestarikan budaya Indonesia.
